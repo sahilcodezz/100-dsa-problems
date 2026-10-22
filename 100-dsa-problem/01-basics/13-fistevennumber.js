@@ -10,7 +10,7 @@ let count = null;
 for(let i = 0; i < numbers.length; i++){
     if(numbers[i] % 2 === 0){
         count = numbers[i];
-        break; // First even number mil gaya, loop band kar do
+        break;
     }
 }
 
